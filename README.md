@@ -1,4 +1,4 @@
-### Bem-vindo, meu 👋
+### Bem-vindo ao meu perfil 👋
 
 - 🔭 Atualmente trabalhando em meu <a href="https://github.com/RicardoWegner/meuportfolio"> portfólio</a>
 - 🌱 Estudando JavaScript
